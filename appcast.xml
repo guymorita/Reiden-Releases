@@ -23,7 +23,7 @@
                        type="application/octet-stream"
                        sparkle:edSignature="..." />
             <sparkle:releaseNotesLink>
-                https://github.com/guymorita/Reiden-Releases/raw/main/releases/v0.3.14/release_notes.html
+                https://htmlpreview.github.io/?https://raw.githubusercontent.com/guymorita/Reiden-Releases/main/releases/v0.3.14/release_notes.html
             </sparkle:releaseNotesLink>
         </item>
     </channel>
