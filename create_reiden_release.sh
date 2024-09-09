@@ -1,5 +1,9 @@
 #!/bin/bash
 
+echo "Important: This script requires a .app file for Reiden to be present in the root directory where this script is run."
+echo "Please ensure 'Reiden.app' is in the current directory before proceeding."
+echo
+
 # Prompt for version number
 read -p "Enter the new version number (e.g., v0.4.1): " VERSION
 
