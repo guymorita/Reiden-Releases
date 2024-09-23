@@ -5,6 +5,28 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 0.4.2</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New</h2>
+                    <ul>
+                        <li>Improved detection accuracy for Chrome tab navigation patterns</li>
+                        <li>Enhanced time-saving calculations based on user behavior</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Sun, 22 Sep 2024 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/guymorita/Reiden-Releases/raw/main/releases/v0.4.2/Reiden.zip"
+                       sparkle:version="0.4.2"
+                       sparkle:shortVersionString="0.4.2"
+                       length="12345678"
+                       type="application/octet-stream"
+                       sparkle:edSignature="..." />
+            <sparkle:releaseNotesLink>
+                https://htmlpreview.github.io/?https://raw.githubusercontent.com/guymorita/Reiden-Releases/main/releases/v0.4.2/release_notes.html
+            </sparkle:releaseNotesLink>
+        </item>
+        <item>
             <title>Version 0.4.1</title>
             <description>
                 <![CDATA[
