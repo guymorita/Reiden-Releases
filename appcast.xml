@@ -5,6 +5,29 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 0.4.4</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New</h2>
+                    <ul>
+                        <li>Updated to only show 3 ML shortcut recommendations</li>
+                        <li>Fixed recommendations for Gmail</li>
+                        <li>Fixed Discord link</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Thu, 10 Oct 2024 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/guymorita/Reiden-Releases/raw/main/releases/v0.4.4/Reiden.zip"
+                    sparkle:version="0.4.4"
+                    sparkle:shortVersionString="0.4.4"
+                    length="12345678"
+                    type="application/octet-stream"
+                    sparkle:edSignature="..." />
+            <sparkle:releaseNotesLink>
+                https://htmlpreview.github.io/?https://raw.githubusercontent.com/guymorita/Reiden-Releases/main/releases/v0.4.4/release_notes.html
+            </sparkle:releaseNotesLink>
+        </item>
+        <item>
             <title>Version 0.4.3</title>
             <description>
                 <![CDATA[
